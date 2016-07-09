@@ -2,7 +2,7 @@ class MakeWebapp < Formula
   homepage "https://github.com/indranilsen/make-webapp"
   url "https://github.com/indranilsen/make-webapp/archive/1.0.1.tar.gz"
   version "1.0.1"
-  sha256 "4faea411fcb8ed322d6fd1ec8dfb93f5c4397d4591b1210ae6170c1c3c96adf0"
+  sha256 "1d199311d5606fb57234d3a76e7827e24c1cc057a995439908297a6eea3c2019"
 
   def install
     bin.install "make-webapp"
